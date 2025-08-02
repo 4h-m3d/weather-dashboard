@@ -4,7 +4,7 @@
 A sleek and responsive real-time weather app built using HTML, CSS, and JavaScript.  
 Search for any city or use your current location to view live weather updates and a 3-day forecast.
 
-![App Screenshot](screenshots/app-preview.png)
+![App Screenshot](screenshot/screenshot.png)
 
 ---
 
@@ -74,16 +74,6 @@ Search for any city or use your current location to view live weather updates an
 
 ---
 
-## 📸 Screenshots
-
-Create a folder named `screenshot/` and save your image as `app-preview.png` to show up in this README.
-
-```bash
-mkdir screenshots
-# Save screenshot as: screenshots/app-preview.png
-```
-
----
 
 ## 📄 License
 
