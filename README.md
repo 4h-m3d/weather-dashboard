@@ -75,7 +75,7 @@ Search for any city or use your current location to view live weather updates an
 ---
 
 
-## 📄 License
+## 📄 Developer
 
 Directed by: **Ahmed Nadeem**
 
